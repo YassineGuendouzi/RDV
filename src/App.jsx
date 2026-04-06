@@ -255,7 +255,7 @@ function AuthShell({ title, subtitle, children }) {
           <div style={{
             fontFamily: "'Crimson Pro', Georgia, serif",
             fontSize: 38, fontWeight: 700, color: "#f8fafc", letterSpacing: -1,
-          }}>📚 PlanRévision</div>
+          }}>📚 RCH (Révision Coran Hem)</div>
           <div style={{ color: "#f8fafc", fontSize: 20, fontWeight: 700, marginTop: 6, fontFamily: "'Crimson Pro', serif" }}>{title}</div>
           <div style={{ color: "#94a3b8", fontSize: 13, marginTop: 4 }}>{subtitle}</div>
         </div>
